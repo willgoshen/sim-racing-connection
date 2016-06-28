@@ -1,0 +1,54 @@
+.header-logo {
+  background-image: url("/style/images/simracingconnection.png");
+  background-color: yellow;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 0;
+  padding-top: 66.64%;
+}
+
+.srcHeader {
+  height: 88px;
+}
+
+.srcHeaderLogo {
+  background-image: url("/style/images/simracingconnection.png");
+  background-repeat: no-repeat;
+  height: 84px;
+}
+
+.srcHeaderConnect {
+  text-align: center;
+}
+
+.fa-facebook-square {
+  color: #2f487d;
+  font-size: 30px;
+  padding: 1px;
+}
+
+.fa-twitter-square {
+  color: #1a96e1;
+  font-size: 30px;
+  padding: 1px;
+}
+.fa-home {
+  font-size: 30px;
+  padding: 1px;
+}
+
+.categories {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+
+
+}
+
+
+ .categories .fa {
+   font-size: 80px;
+   color: gray;
+ }

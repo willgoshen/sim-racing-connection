@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html ng-app="srcApp">
+<head>
+  <title ng-controller="titleController">{{ title }}</title>
+  <link rel="stylesheet" href="./style/bootstrap.min.css" />
+  <link rel="stylesheet" href="./style/font-awesome-4.6.3/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="./style/style.css" />
+  <script src="angular.js"></script>
+  <script src="srcApp.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <div class="container">
+    <div class="page-header srcHeader">
+      <div class="row">
+        <div class="col-xs-12 srcHeaderLogo">
+          <div class="col-sm-3 pull-right srcHeaderConnect">
+            <div>
+              <a href="https://www.facebook.com"><i class="fa fa-facebook-square"></i></a>
+              <a href="https://www.twitter.com"><i class="fa fa-twitter-square"></i></a>
+              <a href="/index.html"><i class="fa fa-home"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+    <div ng-controller="srcController">
+      <div class="row">
+        <div class="col-xs-10 col-xs-offset-1 well">
+          <div class="row">
+            <div ng-repeat="data in categoryModel">
+              <div class="col-sm-6 col-md-6 col-lg-4 categories" >
+                <a href="{{ data.url }}"><i class="{{ data.img }}"></i></a>
+                <br />
+                <a href="{{ data.url }}">{{ data.title }}</a>
+                <!--<a href="{{ data.url }}"><img ng-src="{{ data.img }}" alt="{{ data.name }}" /><br />{{ data.title }}</a>-->
+              </div>
+            </div>
+          <div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
