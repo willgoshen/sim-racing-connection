@@ -26,18 +26,49 @@
       </div>
     </div>
     <br />
-    <div ng-controller="srcController">
+    <div ng-controller="tracksController">
       <div class="row">
-        <div class="col-xs-10 col-xs-offset-1 well">
+        <div class="col-xs-12 well">
+          <button class="btn btn-danger" ng-click="trackType('')">All Tracks</button>
+          <button class="btn btn-primary" ng-click="trackType('short')">Short Tracks</button>
+          <button class="btn btn-primary" ng-click="trackType('speedway')">Speedways</button>
+          <button class="btn btn-primary" ng-click="trackType('road')">Road Courses</button>
+
+          <div class="row">
+            <table class="table table-striped">
+              <thead>
+                <td>Name</td>
+                <td>Date</td>
+                <td>Length</td>
+                <td>Link</td>
+                <td>Link</td>
+                <td>Description</td>
+              </thead>
+              <tbody>
+                <!--<tr ng-repeat="data in trackModel | filter:filter">-->
+                <tr ng-repeat="data in trackModel | filter: filter | orderBy: name">
+                  <td>{{ data.name }}</td>
+                  <td>{{ data.date }}</td>
+                  <td>{{ data.length }}</td>
+                  <td><a href="{{ data.dl }}">{{ data.dlLink }}</a></td>
+                  <td><a href="{{ data.dl2 }}">{{ data.dl2Link }}</a></td>
+                  <td>{{ data.description }}</td>
+                </tr>
+              </tbody>
+            </table>
+
+          </div>
+          <!--
           <div class="row">
             <div ng-repeat="data in categoryModel">
               <div class="col-sm-6 col-md-6 col-lg-4 categories" >
                 <a href="{{ data.url }}"><i class="{{ data.img }}"></i></a>
                 <br />
                 <a href="{{ data.url }}">{{ data.title }}</a>
-                <!--<a href="{{ data.url }}"><img ng-src="{{ data.img }}" alt="{{ data.name }}" /><br />{{ data.title }}</a>-->
+                <a href="{{ data.url }}"><img ng-src="{{ data.img }}" alt="{{ data.name }}" /><br />{{ data.title }}</a>
               </div>
             </div>
+            -->
           <div>
         </div>
       </div>

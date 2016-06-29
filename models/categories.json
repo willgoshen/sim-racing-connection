@@ -1,8 +1,8 @@
 [
-  { "name": "tracks", "title": "Tracks List", "url": "/tracks", "img": "fa fa-flag" },
-  { "name": "mods", "title": "Mods List", "url": "/mods", "img": "fa fa-car" },
-  { "name": "utils", "title": "Utilities", "url": "/utilities", "img": "fa fa-cogs" },
-  { "name": "older", "title": "Older Games", "url": "older_games", "img": "fa fa-step-backward" },
-  { "name": "tracks_space", "title": "Tracks From Space", "url": "/tracks_from_space", "img": "fa fa-globe" },
+  { "name": "tracks", "title": "Tracks List", "url": "/tracks.html", "img": "fa fa-flag" },
+  { "name": "mods", "title": "Mods List", "url": "/mods.html", "img": "fa fa-car" },
+  { "name": "utils", "title": "Utilities", "url": "/utilities.html", "img": "fa fa-cogs" },
+  { "name": "older", "title": "Older Games", "url": "older_games.html", "img": "fa fa-step-backward" },
+  { "name": "tracks_space", "title": "Tracks From Space", "url": "/tracks_from_space.html", "img": "fa fa-globe" },
   { "name": "forum", "title": "Forum", "url": "http://bnr2k3tracks.runboard.com/", "img": "fa fa-comments" }
 ]
