@@ -52,3 +52,10 @@
    font-size: 80px;
    color: gray;
  }
+
+
+ @media (max-width: 400px) {
+   #mobile {
+     display: none;
+   }
+ }
