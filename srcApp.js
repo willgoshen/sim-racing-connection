@@ -5,7 +5,7 @@ srcApp.controller("titleController", function($scope) {
 });
 
 srcApp.controller("srcController", function($scope, $http) {
-  $http.get("/models/categories.json")
+  $http.get("./models/categories.json")
   .success(function(data) {
     $scope.categoryModel = data;
   })
@@ -22,7 +22,7 @@ srcApp.controller("tracksController", function($scope, $http) {
   $scope.trackType = function(type) {
     $scope.filter = type;
   }
-  $http.get("/models/tracks.json")
+  $http.get("./models/tracks.json")
   .success(function(data) {
     $scope.trackModel = data;
   })
