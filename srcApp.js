@@ -11,7 +11,7 @@ srcApp.controller("srcController", function($scope, $http) {
   })
   .error(function() {
     $scope.error = "Error";
-  })
+  });
 
   $scope.welcome = "Welcome to Sim Racing Connection";
   //$scope.categoryModel = categoryModel;

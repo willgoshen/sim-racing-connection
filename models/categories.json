@@ -1,8 +1,8 @@
 [
-  { "name": "tracks", "title": "Tracks List", "url": "/tracks.html", "img": "fa fa-flag" },
-  { "name": "mods", "title": "Mods List", "url": "/mods.html", "img": "fa fa-car" },
-  { "name": "utils", "title": "Utilities", "url": "/utilities.html", "img": "fa fa-cogs" },
-  { "name": "older", "title": "Older Games", "url": "older_games.html", "img": "fa fa-step-backward" },
-  { "name": "tracks_space", "title": "Tracks From Space", "url": "/tracks_from_space.html", "img": "fa fa-globe" },
-  { "name": "forum", "title": "Forum", "url": "http://bnr2k3tracks.runboard.com/", "img": "fa fa-comments" }
+  { "name": "tracks", "title": "GPD", "url": "/ground-pounder-designs.html", "img": "fa fa-flag-checkered" },
+  { "name": "mods", "title": "Carsets", "url": "/carsets.html", "img": "fa fa-car" },
+  { "name": "utils", "title": "Project Short Track", "url": "/project-short-track.html", "img": "fa fa-cogs" },
+  { "name": "older", "title": "SRC Tracks", "url": "src-tracks.html", "img": "fa fa-flag" },
+  { "name": "tracks_space", "title": "Forum", "url": "http://bnr2k3tracks.runboard.com/", "img": "fa fa-comments" },
+  { "name": "forum", "title": "?", "url": "http://bnr2k3tracks.runboard.com/", "img": "fa fa-comments" }
 ]

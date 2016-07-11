@@ -40,20 +40,16 @@
               <table class="table table-striped">
                 <thead>
                   <td>Name</td>
-                  <td id="mobile">Date</td>
-                  <td id="mobile">Length</td>
+                  <td id="mobile">Author</td>
                   <td>Link</td>
-                  <td id="mobile">Link</td>
                   <td id="mobile">Description</td>
                 </thead>
                 <tbody>
                   <!--<tr ng-repeat="data in trackModel | filter:filter">-->
                   <tr ng-repeat="data in trackModel | filter: filter | orderBy: name">
                     <td>{{ data.name }}</td>
-                    <td id="mobile">{{ data.date }}</td>
-                    <td id="mobile">{{ data.length }}</td>
-                    <td><a href="{{ data.dl }}">{{ data.dlLink }}</a></td>
-                    <td id="mobile"><a href="{{ data.dl2 }}">{{ data.dl2Link }}</a></td>
+                    <td id="mobile">{{ data.author }}</td>
+                    <td><a href="{{ data.dl }}">Download</a></td>
                     <td id="mobile">{{ data.description }}</td>
                   </tr>
                 </tbody>

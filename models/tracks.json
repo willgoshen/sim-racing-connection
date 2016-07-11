@@ -1,124 +1,149 @@
 [
   {
-    "name": "141 Beta",
+    "name": "Albany Night",
+    "author": "Justin9",
     "type": "short",
-    "date": "10/21/07",
-    "length": "0.35",
-    "dl": "www.phantomracinging.com",
-    "dlLink": "Link",
-    "dl2": "http://nr2k3tracks.proboards102.com/index.cgi?board=announcements&action=display&thread=218",
-    "dl2Link": "Link",
-    "description": "N2 conversion, but made longer"
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/Albanyms_night_j9stc.exe",
+    "description": "Quarter mile asphalt oval located in Leesburg, GA."
   },
   {
-    "name": "3 Unit",
-    "type": "short",
-    "date": "",
-    "length": "0.625",
-    "dl": "",
-    "dlLink": "",
-    "dl2": "",
-    "dl2Link": "",
-    "description": "high bank"
+    "name": "Atlanta 2005 Day",
+    "author": "Rioux",
+    "type": "speedway",
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/atlanta05v1.1.zip",
+    "description": "Updated Track"
   },
   {
-    "name": "6 Feet Under",
+    "name": "Atlanta 2005 Night",
+    "author": "Rioux",
+    "type": "speedway",
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/atlanta05_nightv1.1.zip",
+    "description": "Updated Track"
+  },
+  {
+    "name": "Autodrome Chaudieres",
+    "author": "Maynard46",
+    "type": "short",
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/Autrodome_Chardiere.rar",
+    "description": "A popular Canadian short track"
+  },
+  {
+    "name": "Badone",
+    "author": "Kurt",
     "type": "road",
-    "date": "05/10/06",
-    "length": "0.4",
-    "dl": "http://www.racetrackcentral.org/",
-    "dlLink": "Link",
-    "dl2": "",
-    "dl2Link": "",
-    "description": "underground track"
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/Badone.zip",
+    "description": "A hilly flowing 1.8 mile roadie for all mods, still needs cams. This is a fun track, good in CTS and PTA type"
   },
   {
-    "name": "Ace",
+    "name": "Bear Field",
+    "author": "fej87",
     "type": "short",
-    "date": "02/15/04",
-    "length": "0.4",
-    "dl": "http://www.rwfracing.com/",
-    "dlLink": "Link",
-    "dl2": "",
-    "dl2Link": "",
-    "description": "popular shortie"
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/baer_field_stc.zip",
+    "description": "Originally posted at STC, posted here with permission"
   },
   {
-    "name": "Ace 2005",
+    "name": "Beech Ridge",
+    "author": "Maynard, JR Franklin, Matt Gilson",
     "type": "short",
-    "date": "10/01/05",
-    "length": "0.4",
-    "dl": "http://nsrs.jawcentral.com/forum/forum.asp?FORUM_ID=20",
-    "dlLink": "Link",
-    "dl2": "http://astgn2k3.simodified.com/",
-    "dl2Link": "Link",
-    "description": "a new version"
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/Beech_Ridge.rar",
+    "description": "The very popular NE .33 mile low banked short tracks. 36 pits."
   },
   {
-    "name": "Airborne",
+    "name": "Berlin Raceway 2007",
+    "author": "White Falcon",
     "type": "short",
-    "date": "09/28/06",
-    "length": ".5",
-    "dl": "http://www.teamslm.com/",
-    "dlLink": "Link",
-    "dl2": "http://www.nmcs.k12.in.us/nm/tracks.htm",
-    "dl2Link": "Link",
-    "description": "page 2 - several download links"
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/Berlin_Raceway.rar",
+    "description": "A gfx edit of the original track by robol9"
   },
   {
-    "name": "Airborne",
+    "name": "Birmingham",
+    "author": "BOWTIE, Wrangler3",
     "type": "short",
-    "date": "07/31/09",
-    "length": "0.5",
-    "dl": "http://bigdonlinemotorsports.com/Downloads.html",
-    "dlLink": "Link",
-    "dl2": "",
-    "dl2Link": "",
-    "description": "new version - super graphics, nice job"
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/bir.zip",
+    "description": "A popular Alabama short track. A lot of folks contributed to finishing up BOWTIE's start."
   },
   {
-    "name": "Albany ",
+    "name": "Blue Ridge",
+    "author": "Wrangler3",
+    "type": "speedway",
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/Blue_Ridge.zip",
+    "description": "Early N2k3 edit to bank Homestead. A very insightful edit. What they did is about what he created a year before"
+  },
+  {
+    "name": "Bristol 91 Night",
+    "author": "Wrangler3",
     "type": "short",
-    "date": "11/22/03",
-    "length": "0.25",
-    "dl": "http://www.nr2k3tracks.com/SRCtracks.html",
-    "dlLink": "Link",
-    "dl2": "",
-    "dl2Link": "",
-    "description": "AI with Butter's fix"
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/Bristol_1991_night.zip",
+    "description": "Retro-fit of Bristol to its pre-concrete days"
+  },
+  {
+    "name": "Bowman Gray 2005",
+    "author": "JR Franklin",
+    "type": "short",
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/bowman_gray_2005.rar",
+    "description": "Completely rebuilt BG track with butters rule"
+  },
+  {
+    "name": "Cake Tin",
+    "author": "",
+    "type": "short",
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/cake-tin.zip",
+    "description": "A goof track lost when a site disappeared"
+  },
+  {
+    "name": "Catamount",
+    "author": "JR Frankin, Maynard",
+    "type": "short",
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/Catamount.rar",
+    "description": "Short Track"
+  },
+  {
+    "name": "Citrus County",
+    "author": "Justin9, steveb73, BOWTIE",
+    "type": "short",
+    "dl": "http://www.nr2k3tracks.com/nascar/tracks/citrus_jsw.zip",
+    "description": "A .375 moderately banked central FL short track"
   },
   {
     "name": "",
+    "author": "",
     "type": "",
-    "date": "",
-    "length": "",
     "dl": "",
-    "dlLink": "",
-    "dl2": "",
-    "dl2Link": "",
     "description": ""
   },
   {
     "name": "",
+    "author": "",
     "type": "",
-    "date": "",
-    "length": "",
     "dl": "",
-    "dlLink": "",
-    "dl2": "",
-    "dl2Link": "",
     "description": ""
   },
   {
     "name": "",
+    "author": "",
     "type": "",
-    "date": "",
-    "length": "",
     "dl": "",
-    "dlLink": "",
-    "dl2": "",
-    "dl2Link": "",
+    "description": ""
+  },
+  {
+    "name": "",
+    "author": "",
+    "type": "",
+    "dl": "",
+    "description": ""
+  },
+  {
+    "name": "",
+    "author": "",
+    "type": "",
+    "dl": "",
+    "description": ""
+  },
+  {
+    "name": "",
+    "author": "",
+    "type": "",
+    "dl": "",
     "description": ""
   }
-
 ]
